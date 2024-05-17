@@ -1,9 +1,0 @@
-clean/
-noisy/
-.conda/
-/.ipynb_checkpoints
-lib/
-libs/
-val_pesq/
-origin_pesq/
-
